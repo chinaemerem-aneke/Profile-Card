@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Profile Card</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <div class="card">
+        <img 
+            src="Profile picture.jpg" 
+            alt="Profile Picture" 
+            class="profile-image" 
+            data-testid="profilePicture"
+        >
+        <h1 class="name" data-testid="fullName">Chinaemerem Aneke</h1>
+        <h2 class="job-title" data-testid="jobTitle">Frontend Developer</h2>
+        <p class="bio" data-testid="shortBio">
+            Passionate frontend developer with a keen eye for creating beautiful, responsive web applications. 
+            Committed to writing clean, efficient code and staying current with the latest web technologies.
+        </p>
+        <div class="info-item" data-testid="currentLocation">
+            📍 Enugu, Nigeria
+        </div>
+        <div class="info-item" data-testid="emailAddress">
+            📧 anekedivine240@gmail.com
+        </div>
+        <div class="social-links" data-testid="socialLinks">
+            <a href="https://github.com/chinaemerem-aneke" target="_blank">GitHub</a>
+            <a href="https://linkedin.com/in/chinaemerem-aneke" target="_blank">LinkedIn</a>
+            <!-- <a href="https://twitter.com" target="_blank">Twitter</a> -->
+        </div>
+        <div class="time" data-testid="currentTimeUTC">UTC: Loading...</div>
+    </div>
+
+    <script src="main.js"></script>
+</body>
+</html>
