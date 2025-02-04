@@ -40,9 +40,9 @@ The profile card includes the following elements, each with specific data-testid
 This project is part of the HNG Internship Stage Zero requirements. It demonstrates basic proficiency in frontend development fundamentals while adhering to specific technical requirements.
 
 ## 👤 Author
-[Chinaemerem]
-- GitHub: [@yourgithub](github.com/chinaemerem-aneke)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/chinaemerem-aneke)
+[Chinaemerem Aneke]
+- GitHub: [chinaemerem-aneke](github.com/chinaemerem-aneke)
+- LinkedIn: [chinaemerem-aneke](https://www.linkedin.com/in/chinaemerem-aneke)
 
 ## 🤝 Contributing
 While this is a task submission, constructive feedback and suggestions are welcome. Feel free to open an issue or reach out directly.
